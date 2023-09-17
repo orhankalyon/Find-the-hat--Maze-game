@@ -1,0 +1,2 @@
+# Maze
+ Find the hat!
